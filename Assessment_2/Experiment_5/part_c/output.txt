@@ -1,0 +1,10 @@
+
+a: Identifier
++: Operator
+(: Parenthesis
+19.5: Float Number
++: Operator
+10: Number
+): Parenthesis
+/: Operator
+d: Identifier
